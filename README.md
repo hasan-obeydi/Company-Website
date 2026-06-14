@@ -7,6 +7,11 @@
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+#### Website Features :
+- Full responsive
+- Has a menu
+- View more/less button
+
 ### Picture from the project
 
 <br />
@@ -16,6 +21,6 @@
 <img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135638.png?raw=true" />
 <img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135649.png?raw=true" />
 
-#### You can use this app for yourself or your friends and enjoy!!
+
 
 #### I would be happy if you support me ❤️🙏🏻
