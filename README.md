@@ -16,10 +16,7 @@
 
 <br />
 
-<img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135551.png?raw=true" />
-<img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135612.png?raw=true" />
-<img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135638.png?raw=true" />
-<img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135649.png?raw=true" />
+<img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135551.png?raw=true" /><img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135612.png?raw=true" /><img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135638.png?raw=true" /><img src="https://github.com/hasan-obeydi/Company-Website/blob/main/Screenshot%202026-06-14%20135649.png?raw=true" />
 
 
 
